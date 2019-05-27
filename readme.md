@@ -10,3 +10,7 @@
 [百度机器阅读理解比赛](http://lic2019.ccf.org.cn/read)|[link](https://pan.baidu.com/s/1GhJi1KFwNTfVqYvz_hFDJg )| 4g1b |  |
 [百度知识驱动对话比赛](http://lic2019.ccf.org.cn/talk)|[link](https://pan.baidu.com/s/1isoc8EpVKwkxBeDBcnvvqA)| 47i2 |  |
 
+语料名称 | 网盘链接 | 提取码 |
+:-: | :-: | :-: |
+百度对话语料 | [link](https://pan.baidu.com/s/1a2Rtp6MYlEGadek8rDhJ0g)  | qnn3 |
+人民日报分词语料 | [link](https://pan.baidu.com/s/1DijAYtd7mLtnPzkbtClBDw)| m2nx |
