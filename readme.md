@@ -1,5 +1,5 @@
-## SPDB_NLP_CP stands for NLP Corpus Plan. 
-## It builds a Chinese NLP corpus bank.
+## NLP_CP stands for NLP Corpus Plan. 
+### It builds a Chinese NLP corpus bank.
 
 语料名称 | 网盘链接 | 提取码 | 备注 |
 :-: | :-: | :-: | :-: |
@@ -11,9 +11,3 @@
 [百度机器阅读理解比赛](http://lic2019.ccf.org.cn/read)|[link](https://pan.baidu.com/s/1GhJi1KFwNTfVqYvz_hFDJg )| 4g1b | 数据集包含约28万问题，其中包括27万训练集，约3000开发集和7000测试集 |
 [百度知识驱动对话比赛](http://lic2019.ccf.org.cn/talk)|[link](https://pan.baidu.com/s/1isoc8EpVKwkxBeDBcnvvqA)| 47i2 | 数据集约十几万轮对话，每个session包括对话目标、相关知识信息和对话内容|
 
-## 加入我们
-- 愿景：用人工智能技术服务银行金融生态
-- 团队：开放合作，海龟名校，乐于分享，做有温度的技术，让金融更美好
-- 职位：**自然语言处理算法工程师**、**图像处理算法工程师**、[其他岗位信息](https://mp.weixin.qq.com/s/WBXfLq0su-wkEZ8cvuS8LQ)
-- 优秀的应届毕业生+社招
-- 简历投递地址：yangyangfuture@gmail.com
